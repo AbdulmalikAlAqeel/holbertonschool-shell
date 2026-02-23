@@ -15,3 +15,5 @@ This script lists the contents of the current directory using the long listing f
 This script lists all files in the current directory, including hidden ones, using the long listing format (`ls -la`).
 * **5-listfilesdigitonly
 This script lists the contents of the current directory using the long listing format and displays numeric user and group IDs (`ls -ln`).
+* **6-firstdirectory
+This script creates a directory named `my_first_directory` in the `/tmp` directory using the `mkdir` command.
