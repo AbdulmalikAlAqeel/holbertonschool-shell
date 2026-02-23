@@ -13,3 +13,5 @@ This project contains scripts for learning basic shell commands.
 This script lists the contents of the current directory using the long listing format (`ls -l`).
 * **4-listmorefiles
 This script lists all files in the current directory, including hidden ones, using the long listing format (`ls -la`).
+* **5-listfilesdigitonly
+This script lists the contents of the current directory using the long listing format and displays numeric user and group IDs (`ls -ln`).
