@@ -17,3 +17,5 @@ This script lists all files in the current directory, including hidden ones, usi
 This script lists the contents of the current directory using the long listing format and displays numeric user and group IDs (`ls -ln`).
 * **6-firstdirectory
 This script creates a directory named `my_first_directory` in the `/tmp` directory using the `mkdir` command.
+* **7-movethatfile
+This script moves the file `betty` from the current directory to `/tmp/my_first_directory` using the `mv` command.
