@@ -21,3 +21,4 @@ This repository contains shell scripts for learning about Linux file permissions
 | **13-change_group** | A script that changes the group owner to `school` for the file `hello`.
 | **14-change_owner_and_group** | A script that changes the owner to `vincent` and the group owner to `staff` for all files and directories in the working directory.
 | **15-symbolic_link_permissions** | A script that changes the owner and group owner of a symbolic link `_hello` to `vincent` and `staff`.
+| **16-if_only** | This script changes the ownership of the file `hello` based on a specific condition. It demonstrates how to use the `--from` flag with the `chown` command to perform conditional ownership changes.
