@@ -20,3 +20,4 @@ This repository contains shell scripts for learning about Linux file permissions
 | **11-directories_permissions** | A script that adds execute permission to all subdirectories of the current directory.| **12-directory_permissions** | A script that creates a directory called `my_dir` with permissions 751.
 | **13-change_group** | A script that changes the group owner to `school` for the file `hello`.
 | **14-change_owner_and_group** | A script that changes the owner to `vincent` and the group owner to `staff` for all files and directories in the working directory.
+| **15-symbolic_link_permissions** | A script that changes the owner and group owner of a symbolic link `_hello` to `vincent` and `staff`.
