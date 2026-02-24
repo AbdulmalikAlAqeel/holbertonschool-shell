@@ -19,3 +19,5 @@ This script lists the contents of the current directory using the long listing f
 This script creates a directory named `my_first_directory` in the `/tmp` directory using the `mkdir` command.
 * **7-movethatfile
 This script moves the file `betty` from the current directory to `/tmp/my_first_directory` using the `mv` command.
+* **8-firstdelete :This script deletes the file `betty` located in the directory `/tmp/my_first_directory`.
+
