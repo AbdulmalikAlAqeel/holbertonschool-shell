@@ -13,4 +13,5 @@ Shell, I/O Redirections and Filters
 * **8-cwd_state**: A Bash script that writes the result of ls -la into a file named ls cwd content, overwriting it if it exists.
 * **9-duplicate_last_line**: A Bash script that duplicates the last line of the file iacta and appends it to the end of the same file.
 * **10-no_more_js**: A Bash script that deletes all regular files with a .js extension in the current directory and its subdirectories.
-* **11-directories**: A Bash script that counts the number of directories and sub-directories in the current directory (excluding . and ..). 
+* **11-directories**: A Bash script that counts the number of directories and sub-directories in the current directory (excluding . and ..).
+* **12-newest_files**: A Bash script that displays the 10 newest files in the current directory, sorted from newest to oldest. 
