@@ -17,4 +17,4 @@ This repository contains shell scripts for learning about Linux file permissions
 | **8-James_Bond** | A script that sets the permission of the file `hello` to 007 (no permissions for owner and group, all permissions for others).
 | **9-John_Doe** | A script that sets the mode of the file `hello` to 753 (-rwxr-x-wx).
 | **10-mirror_permissions** | A script that sets the mode of the file `hello` to match the mode of the file `olleh`.
-| **11-directories_permissions** | A script that adds execute permission to all subdirectories of the current directory.
+| **11-directories_permissions** | A script that adds execute permission to all subdirectories of the current directory.| **12-directory_permissions** | A script that creates a directory called `my_dir` with permissions 751.
