@@ -21,3 +21,4 @@ This script creates a directory named `my_first_directory` in the `/tmp` directo
 This script moves the file `betty` from the current directory to `/tmp/my_first_directory` using the `mv` command.
 * **8-firstdelete :This script deletes the file `betty` located in the directory `/tmp/my_first_directory`.
 * **9-firstdirdeletion :This script deletes the directory `my_first_directory` located in the `/tmp` directory.
+* **10-back :This script changes the working directory to the previous one.
