@@ -7,3 +7,4 @@ Shell, I/O Redirections and Filters
 * **2-hellofile**: A Bash script that displays the content of the /etc/passwd file.
 * **3-twofiles**: A Bash script that displays the content of /etc/passwd and /etc/hosts.
 * **4-lastlines**: A Bash script that displays the last 10 lines of /etc/passwd.
+* **| 5-firstlines**: A Bash script that displays the first 10 lines of /etc/passwd.
