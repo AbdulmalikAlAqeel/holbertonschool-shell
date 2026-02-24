@@ -23,3 +23,4 @@ This script moves the file `betty` from the current directory to `/tmp/my_first_
 * **9-firstdirdeletion :This script deletes the directory `my_first_directory` located in the `/tmp` directory.
 * **10-back :This script changes the working directory to the previous one.
 * **11-lists :This script lists all files, including hidden files, in the current directory, the parent directory, and the `/boot` directory.
+* **12-file_type :This script prints the type of the file named `iamafile` located in the `/tmp` directory.
