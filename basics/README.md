@@ -24,3 +24,4 @@ This script moves the file `betty` from the current directory to `/tmp/my_first_
 * **10-back :This script changes the working directory to the previous one.
 * **11-lists :This script lists all files, including hidden files, in the current directory, the parent directory, and the `/boot` directory.
 * **12-file_type :This script prints the type of the file named `iamafile` located in the `/tmp` directory.
+* **13-symbolic link :This script creates a symbolic link named `__ls__` to the file `/bin/ls` in the current working directory.
