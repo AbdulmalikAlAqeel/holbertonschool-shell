@@ -9,3 +9,4 @@ Shell, I/O Redirections and Filters
 * **4-lastlines**: A Bash script that displays the last 10 lines of /etc/passwd.
 * **| 5-firstlines**: A Bash script that displays the first 10 lines of /etc/passwd.
 * **| 6-third_line**: A Bash script that displays the third line of the file iacta.
+* **7-file**: Creates a file with a very complex name containing multiple special characters and quotes.
