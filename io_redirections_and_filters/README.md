@@ -10,4 +10,5 @@ Shell, I/O Redirections and Filters
 * **| 5-firstlines**: A Bash script that displays the first 10 lines of /etc/passwd.
 * **| 6-third_line**: A Bash script that displays the third line of the file iacta.
 * **7-file**: Creates a file with a very complex name containing multiple special characters and quotes.
-* **8-cwd_state**: A Bash script that writes the result of ls -la into a file named ls_cwd_content, overwriting it if it exists.
+* **8-cwd_state**: A Bash script that writes the result of ls -la into a file named ls cwd content, overwriting it if it exists.
+* **9-duplicate_last_line**: A Bash script that duplicates the last line of the file iacta and appends it to the end of the same file.
