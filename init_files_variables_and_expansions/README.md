@@ -25,3 +25,4 @@ This project covers the basics of the Bash shell environment, including how the 
 | 8-true knowledge | A script that prints the result of adding 128 to the value stored in the environment variable TRUEKNOWLEDGE.
 | 9-divide and rule | A script that prints the result of the variable POWER divided by the variable DIVIDE.
 | 10-love exponent breath | A script that prints the result of BREATH to the power of LOVE.
+| 11-binary to decimal| A script that converts a binary number stored in the environment variable BINARY to decimal.
