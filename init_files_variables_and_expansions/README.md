@@ -15,3 +15,4 @@ This project covers the basics of the Bash shell environment, including how the 
 | 0-alias | Creates an alias `ls` that executes `rm -f *` |
 | 1-hello it is me | (Upcoming) Prints "hello" followed by the current user |
 | 2-path | (Upcoming) Updates the PATH variable |
+| 1-hello you | Prints "hello" followed by the current Linux user name. |
