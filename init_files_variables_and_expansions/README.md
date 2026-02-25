@@ -21,3 +21,4 @@ This project covers the basics of the Bash shell environment, including how the 
 | 4-global variables | Lists all environment variables. |
 | 5-local variables | A script that lists all local variables, environment variables, and shell functions. |
 | 6-create local variable | A script that creates a local variable named BEST with the value School.
+| 7-create global variable | A script that creates a global variable named BEST with the value School using export.
