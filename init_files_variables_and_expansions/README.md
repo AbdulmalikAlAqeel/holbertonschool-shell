@@ -16,3 +16,4 @@ This project covers the basics of the Bash shell environment, including how the 
 | 1-hello it is me | (Upcoming) Prints "hello" followed by the current user |
 | 2-path | (Upcoming) Updates the PATH variable |
 | 1-hello you | Prints "hello" followed by the current Linux user name. |
+| 2-path | Appends `/action` to the end of the PATH environment variable. |
