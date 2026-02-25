@@ -18,3 +18,4 @@ Shell, I/O Redirections and Filters
 * **13-unique**: A Bash script that takes a list of words and prints only the ones that appear exactly once, sorted.
 * **14-findthatword**: A Bash script that displays lines from /etc/passwd containing the pattern "root".
 * **15-countthatword**: A script that counts the number of lines containing the pattern "bin" in the `/etc/passwd` file.* **16-whatsnext**: Displays lines containing "root" and 3 lines after them in /etc/passwd.
+* **17-hidethisword**: Displays all lines in `/etc/passwd` that do NOT contain the pattern "bin".
