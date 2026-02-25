@@ -19,3 +19,4 @@ This project covers the basics of the Bash shell environment, including how the 
 | 2-path | Appends `/action` to the end of the PATH environment variable. |
 | 3-paths | Counts the number of directories listed in the PATH variable. |
 | 4-global variables | Lists all environment variables. |
+| 5-local variables | A script that lists all local variables, environment variables, and shell functions. |
