@@ -17,3 +17,4 @@ Shell, I/O Redirections and Filters
 * **12-newest_files**: A Bash script that displays the 10 newest files in the current directory, sorted from newest to oldest.
 * **13-unique**: A Bash script that takes a list of words and prints only the ones that appear exactly once, sorted.
 * **14-findthatword**: A Bash script that displays lines from /etc/passwd containing the pattern "root".
+* **15-countthatword**: A script that counts the number of lines containing the pattern "bin" in the `/etc/passwd` file.
