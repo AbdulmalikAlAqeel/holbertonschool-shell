@@ -20,3 +20,4 @@ This project covers the basics of the Bash shell environment, including how the 
 | 3-paths | Counts the number of directories listed in the PATH variable. |
 | 4-global variables | Lists all environment variables. |
 | 5-local variables | A script that lists all local variables, environment variables, and shell functions. |
+| 6-create local variable | A script that creates a local variable named BEST with the value School.
