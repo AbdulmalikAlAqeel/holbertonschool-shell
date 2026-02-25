@@ -18,3 +18,4 @@ This project covers the basics of the Bash shell environment, including how the 
 | 1-hello you | Prints "hello" followed by the current Linux user name. |
 | 2-path | Appends `/action` to the end of the PATH environment variable. |
 | 3-paths | Counts the number of directories listed in the PATH variable. |
+| 4-global variables | Lists all environment variables. |
