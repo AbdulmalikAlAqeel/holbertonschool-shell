@@ -23,3 +23,4 @@ This project covers the basics of the Bash shell environment, including how the 
 | 6-create local variable | A script that creates a local variable named BEST with the value School.
 | 7-create global variable | A script that creates a global variable named BEST with the value School using export.
 | 8-true knowledge | A script that prints the result of adding 128 to the value stored in the environment variable TRUEKNOWLEDGE.
+| 9-divide and rule | A script that prints the result of the variable POWER divided by the variable DIVIDE.
