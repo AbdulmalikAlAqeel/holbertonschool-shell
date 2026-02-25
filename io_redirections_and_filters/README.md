@@ -23,3 +23,4 @@ Shell, I/O Redirections and Filters
 * **19-AZ**: Replaces all characters 'A' with 'Z' and 'c' with 'e'.
 * **20-hiago**: Removes all occurrences of characters 'c' and 'C' from the input.
 * **21-reverse**" Reverses the characters of the input string using the `rev` command.
+* **22-users_and_homes**: Displays all users and their home directories from `/etc/passwd`, sorted by username.
