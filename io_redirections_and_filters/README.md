@@ -21,3 +21,4 @@ Shell, I/O Redirections and Filters
 * **17-hidethisword**: Displays all lines in `/etc/passwd` that do NOT contain the pattern "bin".
 * **18-letteronly**: Displays all lines of `/etc/ssh/sshd_config` starting with a letter (uppercase or lowercase).
 * **19-AZ**: Replaces all characters 'A' with 'Z' and 'c' with 'e'.
+* **20-hiago**: Removes all occurrences of characters 'c' and 'C' from the input.
